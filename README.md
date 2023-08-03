@@ -15,7 +15,8 @@ and then upload it. By that time someone would already have made an edit.
 
 ## How to use?
 
-Just run the file using cmd
+1. Take a screenshot using WIN+SHIFT+S or copy a image to your clipboard
+2. Just run the file using cmd
    ```python clip.py```
    
    ### OR
